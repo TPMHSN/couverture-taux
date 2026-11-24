@@ -39,7 +39,7 @@ Le taux utilisé est le milieu entre le plus haut et le plus bas de la séance. 
 
 ## Vidéos
 
-Les [dix rejeux et les deux explications](https://github.com/TPMHSN/couverture-taux/releases/tag/v1.0.0) montrent les décisions sur des fenêtres historiques EUSA10. Les rejeux affichent le taux, la surface de décision, les ordres et le gain face au linéaire.
+Les [dix rejeux](resultats/videos/rejeux) et les [deux vidéos explicatives](resultats/videos/explications) sont dans le dossier [résultats](resultats/videos). Les rejeux affichent le taux EUSA10, la surface de décision, les ordres et le gain face au linéaire.
 
 ## Relancer les calculs
 
