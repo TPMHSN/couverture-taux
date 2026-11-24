@@ -1,0 +1,8 @@
+* text=auto
+*.csv -text
+*.tex -text
+*.pdf binary
+*.xlsx binary
+*.png binary
+*.npz binary
+*.dll binary

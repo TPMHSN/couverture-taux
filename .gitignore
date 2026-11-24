@@ -1,0 +1,7 @@
+/sorties/
+.venv/
+__pycache__/
+*.py[cod]
+*.pending
+*.log
+*.inspect.ndjson
